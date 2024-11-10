@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" align="center"></h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px" align="center"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Welcome+to+My+GitHub!;MERN+Stack+Developer;Passionate+about+Tech+and+Coding" alt="Typing SVG">
