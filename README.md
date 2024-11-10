@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Welcome+to+My+GitHub!;MERN+Stack+Developer;Passionate+about+Tech+and+Coding" alt="Typing SVG">
@@ -30,6 +30,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
 </div>
+
+<h2 align="left">📚 Data Structures and Algorithms (DSA)</h2>
+
+- Solved multiple DSA problems on platforms like LeetCode, HackerRank, and CodeSignal.
+- Proficient in implementing and optimizing algorithms for data manipulation, searching, and sorting.
+- Areas of focus: Linked Lists, Trees, Graphs, Dynamic Programming, and Advanced Sorting Algorithms.
 
 ## 📊 GitHub Stats
 <div align="center">
