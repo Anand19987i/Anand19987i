@@ -55,7 +55,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand19987i&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Anand19987i&theme=onedark&row=1&column=5" alt="GitHub Trophies">
+ 
 </p>
 
 ---
