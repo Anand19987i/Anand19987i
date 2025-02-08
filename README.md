@@ -62,11 +62,4 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand19987i&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anand19987i&icon=9&color=10" alt="Visitor Count">
-</p>
-
 ---
