@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 👋 Hi, I'm **Anand Pandey**, a passionate **MERN Stack Developer** with a strong problem-solving mindset.
+- 👋 Hi, I'm **Anand Pandey**, a passionate **Web Developer** with a strong problem-solving mindset.
 - 💻 I specialize in building scalable **web applications** and crafting **efficient algorithms**.
 - 🎯 Currently exploring **AI & ML**, and working on **full-stack projects**.
 - 🏆 Regularly solving **Data Structures & Algorithms (DSA)** problems on **LeetCode**, **HackerRank**, and **CodeSignal**.
