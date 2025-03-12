@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;MERN+Stack+Developer;Passionate+about+Coding+and+Technology" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;WEB+Developer; Passionate+about+Coding+and+Technology" alt="Typing SVG">
 </p>
 
 ---
